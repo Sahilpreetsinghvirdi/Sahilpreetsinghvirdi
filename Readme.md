@@ -1,114 +1,185 @@
 <div align="center">
 
-# Sahilpreet Singh
+# Hi, I'm Sahilpreet Singh 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=how+does+this+actually+work%3F;idea+%E2%86%92+model+%E2%86%92+code+%E2%86%92+experiment+%E2%86%92+analysis;simulation+%2B+physics+%2B+AI+%2B+hardware)](https://git.io/typing-svg)
+### Student · Self-Taught Engineer · Simulation, AI & Robotics
 
-`student` · `self-taught` · `Punjab, India`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=How+does+this+actually+work%3F;idea+%E2%86%92+model+%E2%86%92+code+%E2%86%92+experiment+%E2%86%92+analysis;Simulation+%2B+Physics+%2B+AI+%2B+Hardware)](https://git.io/typing-svg)
+
+[![GitHub followers](https://img.shields.io/github/followers/Sahilpreetsinghvirdi?label=Follow&style=social)](https://github.com/Sahilpreetsinghvirdi)
+[![Instagram](https://img.shields.io/badge/Instagram-sahilvirdi-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sahilvirdi/)
+![Location](https://img.shields.io/badge/Location-Punjab%2C%20India-58A6FF?style=flat)
+![Status](https://img.shields.io/badge/Status-Building-F778BA?style=flat)
 
 </div>
 
-<br>
+---
 
-## Earn from what I know, build from what I earn.
+### // PHILOSOPHY
 
-I'm a student teaching myself software engineering, electronics, simulation, mathematics, physics, and AI/ML — not to collect certificates, but because I want to be able to take a hard technical idea and turn it into something that actually runs.
+[#-philosophy](#-philosophy)
 
-I don't learn a tool because it's popular. I learn it because I want to know what's happening underneath it. If I use a library, a model, or an algorithm, at some point I go looking for the math or the mechanism behind it.
+> **"Earn from what I know, build from what I earn."**
 
-This profile isn't a finished product. It's a running log of that process.
+I don't learn a tool because it's popular — I learn it because I want to know what's happening underneath it. If I use a library, a model, or an algorithm, eventually I go looking for the math or mechanism behind it. I don't want repos full of tutorials; I want repos that are evidence of what I can actually build.
 
-<br>
+| HOW I WORK[#how-i-work](#how-i-work)<br>`idea → model → code → experiment → data → visualization → analysis → improvement` | APPROACH[#approach](#approach)<br>I version projects instead of abandoning them — v1 basic, v2 improved physics, v3 optimization. Some repos are finished engineering, some are open experiments, some are just me learning something hard in public. |
+| --- | --- |
 
-## How I work
+---
 
-```
-idea → model → code → experiment → data → visualization → analysis → improvement
-```
+### // CURRENTLY BUILDING
 
-I like simulations specifically because they let me run a system through thousands of conditions instead of trusting one deterministic answer. A lot of what's below is some version of: build the physics, run it many times, look at what the data says, make it better.
+[#-currently-building](#-currently-building)
 
-I version projects instead of abandoning them. A repo starting as "basic simulation" becoming "improved physics" becoming "optimization pass" is more honest than pretending v1 was the final version. Some of what's here is a finished engineering project, some of it is an open experiment, and some of it is just me learning something hard in public.
+**🤖 JARVIS** — a goal-based computer-use agent for Windows, running entirely in the terminal. No hardcoded macros — it has to learn an application's interface while working the task, and verify outcomes instead of assuming a click did what it should. Built around intent-over-commands rather than scripted actions.
 
-<br>
+**🚀 Earth–Moon Trajectory Optimization** — pushing the orbital simulation from a single deterministic run toward an actual search problem: trading off fuel usage, transfer time, and lunar orbital insertion across thousands of trials instead of hand-picking one trajectory.
 
-## Currently building
+---
 
-**JARVIS** — a goal-based computer-use agent for Windows, running entirely in the terminal. The constraint I set for myself: no hardcoded macros. It has to learn an application's interface while it's working the task, and verify outcomes rather than assume a clicked button did what it was supposed to do. Still early — the interesting part so far is the intent-over-commands design, not the coverage.
+### // PROJECTS
 
-Alongside that, I'm pushing the Earth–Moon trajectory work from a single deterministic run toward an actual optimization problem — searching across trials for trajectories that trade off fuel usage, transfer time, and lunar orbital insertion, instead of me picking one by hand.
+[#-projects](#-projects)
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Projects
+**🌍 Earth–Moon Orbital**
 
-**[Earth–Moon Orbital](https://github.com/Sahilpreetsinghvirdi/Earth-Moon-Orbital)**
-Started as a 2D rocket trajectory simulation using Monte Carlo trials — randomizing launch parameters across thousands of runs instead of relying on one nominal trajectory — with numerical orbital dynamics, atmospheric drag, and lunar gravity, plotted live rather than dumped as static numbers. Current direction is turning trajectory selection into a search/optimization problem across fuel efficiency, transfer smoothness, and safe return.
+2D rocket trajectory simulation using Monte Carlo trials — randomized launch parameters across thousands of runs — with numerical orbital dynamics, atmospheric drag, and lunar gravity, plotted live. Now evolving into a fuel/transfer-time/insertion optimization problem.
+
 `MATLAB` `Monte Carlo` `Orbital Mechanics` `Optimization`
 
-**[AI NPC Simulation](https://github.com/Sahilpreetsinghvirdi/AI-NPC-simulation-with-finite-state-machine-architecture)**
-A C++20 environment for exploring learned agent behavior — PPO, actor-critic, GAE, trajectory buffers, minibatch training, checkpointing for persistent learning across runs. I kept a traditional FSM baseline on purpose, so the system has a stable fallback instead of every behavior depending on a policy that's still training.
-`C++20` `Reinforcement Learning` `PPO` `Finite State Machines`
+[→ Repository](https://github.com/Sahilpreetsinghvirdi/Earth-Moon-Orbital)
 
-**[Black Hole — MATLAB](https://github.com/Sahilpreetsinghvirdi/Black-hole-Matlab)**
-Numerical modeling and visualization around black hole physics — an excuse to get comfortable with the kind of math that shows up later in orbital mechanics and dynamics.
+</td>
+<td width="50%" valign="top">
+
+**🧠 AI NPC Simulation**
+
+C++20 environment for learned agent behavior — PPO, actor-critic, GAE, trajectory buffers, minibatch training, checkpointing for persistent learning. Kept a traditional FSM baseline on purpose, so the system has a stable fallback while the policy is still training.
+
+`C++20` `Reinforcement Learning` `PPO` `FSM`
+
+[→ Repository](https://github.com/Sahilpreetsinghvirdi/AI-NPC-simulation-with-finite-state-machine-architecture)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌌 Black Hole — MATLAB**
+
+Numerical modeling and visualization around black hole physics — a testbed for the math that resurfaces later in orbital mechanics and dynamics.
+
 `MATLAB` `Numerical Methods` `Physics`
 
-**[4WD Autonomous Car](https://github.com/Sahilpreetsinghvirdi/4WD-Automatic-Car)**
-Sensor-driven navigation on real hardware — the point where a simulation stops being forgiving. Ultrasonic sensing, motor control, obstacle avoidance logic, and all the ways physical systems don't behave like the model.
+[→ Repository](https://github.com/Sahilpreetsinghvirdi/Black-hole-Matlab)
+
+</td>
+<td width="50%" valign="top">
+
+**🚗 4WD Autonomous Car**
+
+Sensor-driven navigation on real hardware, where a simulation stops being forgiving. Ultrasonic sensing, motor control, obstacle avoidance, and all the ways physical systems refuse to match the model.
+
 `Arduino` `Embedded Systems` `Robotics`
 
-**[Stock Exchange](https://github.com/Sahilpreetsinghvirdi/Stock-Exchange)**
-A full-stack virtual market — real-time simulation, portfolio tracking, trading logic, and a leaderboard. Less about finance, more about building a live system with state that has to stay consistent under concurrent activity.
+[→ Repository](https://github.com/Sahilpreetsinghvirdi/4WD-Automatic-Car)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+**📈 Stock Exchange**
+
+Full-stack virtual market — real-time simulation, portfolio tracking, trading logic, and a leaderboard. Less about finance, more about keeping live state consistent under concurrent activity.
+
 `JavaScript` `Full-Stack` `Real-Time Systems`
 
-<br>
+[→ Repository](https://github.com/Sahilpreetsinghvirdi/Stock-Exchange)
 
-## What I'm trying to understand
+</td>
+</tr>
+</table>
 
-**Simulation & aerospace** — orbital mechanics, trajectory optimization, numerical methods for systems that don't have clean closed-form solutions.
+---
 
-**AI/ML** — not API calls. The math underneath: how optimization actually shapes a neural network, how reinforcement learning agents learn behavior instead of being handed it, what's really going on when people talk about scaling or alternative architectures.
+### // WHAT I'M TRYING TO UNDERSTAND
 
-**Physics & mathematics** — moving from school-level material toward the calculus, dynamics, and probability that simulation and AI actually run on.
+[#-what-im-trying-to-understand](#-what-im-trying-to-understand)
 
-**Hardware & embedded systems** — because a system that only exists in software hasn't been tested against reality yet.
+| DOMAIN | FOCUS |
+| --- | --- |
+| **Simulation & Aerospace** | Orbital mechanics, trajectory optimization, numerical methods for systems without clean closed-form solutions |
+| **AI / ML** | Not API calls — the math underneath: optimization shaping a network, agents learning behavior instead of being handed it |
+| **Physics & Mathematics** | Moving from school-level material toward the calculus, dynamics, and probability that simulation and AI actually run on |
+| **Hardware & Embedded** | A system that only exists in software hasn't been tested against reality yet |
 
-I don't see these as separate subjects. Most of the interesting problems live at the point where two of them meet — a model that has to run in real time, a learned policy that has to control a physical motor, a trajectory that has to survive real drag and real gravity.
+Most of the interesting problems live where two of these meet — a model that has to run in real time, a learned policy controlling a physical motor, a trajectory surviving real drag and real gravity.
 
-<br>
+---
 
-## Stack
+### // STACK
 
-`C++20` `C` `Python` `MATLAB` — core languages
-`CMake` `Git` — build & version control
-`Arduino` `ESP32` `KiCad` — embedded & hardware
-`SolidWorks` — CAD & mechanical design
-`Node.js` `React` — when a project needs a live interface
-
-<br>
-
-## Currently
+[#-stack](#-stack)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahilpreetsinghvirdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpreetsinghvirdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+![C++](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E4392C?style=for-the-badge&logo=solidworks&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Core:** `C++20` `Python` `MATLAB` &nbsp;·&nbsp; **Embedded:** `Arduino` `ESP32` `KiCad` &nbsp;·&nbsp; **CAD:** `SolidWorks` &nbsp;·&nbsp; **Interfaces:** `React` `Node.js`
 
 </div>
 
-<br>
+---
 
-## Where this is going
+### // GITHUB STATS
 
-Right now the throughline is: model something in math, simulate it, build the software around it, then see if it survives contact with real hardware or real-time constraints. Long term, that's the kind of engineer I want to be — someone who can move a hard idea from a differential equation to a working system, not someone who stops at the tutorial.
+[#-github-stats](#-github-stats)
 
-This is a journey, not a finished profile. Come back later — it should look different.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahilpreetsinghvirdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F778BA&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpreetsinghvirdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F778BA&text_color=C9D1D9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilpreetsinghvirdi&theme=tokyonight&hide_border=true&background=0D1117&ring=F778BA&fire=F778BA&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+### // WHERE THIS IS GOING
+
+[#-where-this-is-going](#-where-this-is-going)
+
+The throughline: model something in math, simulate it, build the software around it, then see if it survives contact with real hardware or real-time constraints. Long term, that's the engineer I want to be — someone who can move a hard idea from a differential equation to a working system, not someone who stops at the tutorial.
+
+*This is a journey, not a finished profile.*
 
 <div align="center">
 
 ---
 
-`STATUS: BUILDING`
+### `SYSTEM STATUS: BUILDING`
+
+[#system-status-building](#system-status-building)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sahilpreetsinghvirdi-181717?style=for-the-badge&logo=github)](https://github.com/Sahilpreetsinghvirdi)
+[![Instagram](https://img.shields.io/badge/Instagram-sahilvirdi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahilvirdi/)
 
 </div>
