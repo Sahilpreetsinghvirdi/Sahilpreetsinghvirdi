@@ -1,17 +1,15 @@
 <div align="center">
 
-# Sahilpreet Singh
+<h1>Sahilpreet Singh</h1>
 
-<p><i>Student and self-taught engineer exploring simulation, AI, physics, and hardware.</i></p>
+<p>Student and self-taught engineer exploring simulation, AI, physics, and hardware.</p>
 
-<a href="https://github.com/Sahilpreetsinghvirdi"><img src="https://img.shields.io/badge/GitHub-Sahilpreetsinghvirdi-2B211D?style=for-the-badge&logo=github&logoColor=F3D6BC&labelColor=17110F" /></a>
-<a href="https://www.instagram.com/sahilvirdi/"><img src="https://img.shields.io/badge/Instagram-sahilvirdi-2B211D?style=for-the-badge&logo=instagram&logoColor=E8A8A1&labelColor=17110F" /></a>
-<img src="https://img.shields.io/badge/Punjab,_India-2B211D?style=for-the-badge&logo=googlemaps&logoColor=E8B67C&labelColor=17110F" />
+<p>
+  <a href="https://github.com/Sahilpreetsinghvirdi"><img src="https://img.shields.io/badge/GitHub-Profile-2B211D?style=for-the-badge&logo=github&logoColor=F3D6BC&labelColor=17110F" alt="GitHub profile" /></a>
+  <a href="https://www.instagram.com/sahilvirdi/"><img src="https://img.shields.io/badge/Instagram-%40sahilvirdi-2B211D?style=for-the-badge&logo=instagram&logoColor=E8A8A1&labelColor=17110F" alt="Instagram profile" /></a>
+</p>
 
-<br />
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17110F,50:3A2620,100:17110F&height=8&section=header" width="78%" />
+<sub>Based in Punjab, India</sub>
 
 </div>
 
@@ -134,14 +132,11 @@ A full-stack virtual market with live simulation, trading logic, portfolio track
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sahilpreetsinghvirdi&show_icons=true&hide_border=true&bg_color=17110F&title_color=E8B67C&icon_color=E8A8A1&text_color=F3D6BC&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilpreetsinghvirdi&show_icons=true&theme=default&hide_border=true" height="160" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpreetsinghvirdi&layout=compact&hide_border=true&bg_color=17110F&title_color=E8B67C&text_color=F3D6BC" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpreetsinghvirdi&layout=compact&theme=default&hide_border=true" height="160" />
-</picture>
+<img src="./assets/telemetry.svg" width="100%" alt="GitHub telemetry" />
+
+<br />
+
+<img src="./assets/activity.svg" width="100%" alt="Contribution activity" />
 
 </div>
 
