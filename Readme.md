@@ -5,8 +5,8 @@
 <p>Student and self-taught engineer exploring simulation, AI, physics, and hardware.</p>
 
 <p>
-  <a href="https://github.com/Sahilpreetsinghvirdi"><img src="https://img.shields.io/badge/GitHub-Profile-2B211D?style=for-the-badge&logo=github&logoColor=F3D6BC&labelColor=17110F" alt="GitHub profile" /></a>
-  <a href="https://www.instagram.com/sahilvirdi/"><img src="https://img.shields.io/badge/Instagram-%40sahilvirdi-2B211D?style=for-the-badge&logo=instagram&logoColor=E8A8A1&labelColor=17110F" alt="Instagram profile" /></a>
+  <a href="https://github.com/Sahilpreetsinghvirdi"><img src="https://img.shields.io/badge/GitHub-Profile-1F3A30?style=for-the-badge&logo=github&logoColor=D1FAE5&labelColor=101513" alt="GitHub profile" /></a>
+  <a href="https://www.instagram.com/sahilvirdi/"><img src="https://img.shields.io/badge/Instagram-%40sahilvirdi-1F3A30?style=for-the-badge&logo=instagram&logoColor=6EE7B7&labelColor=101513" alt="Instagram profile" /></a>
 </p>
 
 <sub>Based in Punjab, India</sub>
@@ -64,16 +64,16 @@ I am drawn to the part beneath the surface: the physics behind a simulation, the
 <td width="50%" valign="top">
 <h3>Earth-Moon Orbital</h3>
 <p>Monte Carlo rocket trajectories with orbital dynamics, atmospheric drag, lunar gravity, and live 2D visualization.</p>
-<img src="https://img.shields.io/badge/MATLAB-5B2D24?style=flat-square&logo=mathworks&logoColor=F3D6BC" />
-<img src="https://img.shields.io/badge/Monte_Carlo-3A2620?style=flat-square&logoColor=F3D6BC" />
+<img src="https://img.shields.io/badge/MATLAB-245C45?style=flat-square&logo=mathworks&logoColor=D1FAE5" />
+<img src="https://img.shields.io/badge/Monte_Carlo-1C2924?style=flat-square&logoColor=D1FAE5" />
 <br /><br />
 <a href="https://github.com/Sahilpreetsinghvirdi/Earth-Moon-Orbital"><b>View repository</b></a>
 </td>
 <td width="50%" valign="top">
 <h3>AI NPC Simulation</h3>
 <p>C++20 agents learning through PPO, actor-critic methods, GAE, trajectory buffers, and persistent checkpoints.</p>
-<img src="https://img.shields.io/badge/C%2B%2B20-5B2D24?style=flat-square&logo=cplusplus&logoColor=F3D6BC" />
-<img src="https://img.shields.io/badge/Reinforcement_Learning-3A2620?style=flat-square&logoColor=F3D6BC" />
+<img src="https://img.shields.io/badge/C%2B%2B20-245C45?style=flat-square&logo=cplusplus&logoColor=D1FAE5" />
+<img src="https://img.shields.io/badge/Reinforcement_Learning-1C2924?style=flat-square&logoColor=D1FAE5" />
 <br /><br />
 <a href="https://github.com/Sahilpreetsinghvirdi/AI-NPC-simulation-with-finite-state-machine-architecture"><b>View repository</b></a>
 </td>
@@ -82,16 +82,16 @@ I am drawn to the part beneath the surface: the physics behind a simulation, the
 <td width="50%" valign="top">
 <h3>Black Hole - MATLAB</h3>
 <p>Numerical modelling and visualization of black-hole physics - a testbed for dynamics and mathematical intuition.</p>
-<img src="https://img.shields.io/badge/MATLAB-5B2D24?style=flat-square&logo=mathworks&logoColor=F3D6BC" />
-<img src="https://img.shields.io/badge/Numerical_Methods-3A2620?style=flat-square&logoColor=F3D6BC" />
+<img src="https://img.shields.io/badge/MATLAB-245C45?style=flat-square&logo=mathworks&logoColor=D1FAE5" />
+<img src="https://img.shields.io/badge/Numerical_Methods-1C2924?style=flat-square&logoColor=D1FAE5" />
 <br /><br />
 <a href="https://github.com/Sahilpreetsinghvirdi/Black-hole-Matlab"><b>View repository</b></a>
 </td>
 <td width="50%" valign="top">
 <h3>4WD Autonomous Car</h3>
 <p>Sensor-driven navigation with ultrasonic sensing, motor control, and obstacle avoidance on real hardware.</p>
-<img src="https://img.shields.io/badge/Arduino-5B2D24?style=flat-square&logo=arduino&logoColor=F3D6BC" />
-<img src="https://img.shields.io/badge/Robotics-3A2620?style=flat-square&logoColor=F3D6BC" />
+<img src="https://img.shields.io/badge/Arduino-245C45?style=flat-square&logo=arduino&logoColor=D1FAE5" />
+<img src="https://img.shields.io/badge/Robotics-1C2924?style=flat-square&logoColor=D1FAE5" />
 <br /><br />
 <a href="https://github.com/Sahilpreetsinghvirdi/4WD-Automatic-Car"><b>View repository</b></a>
 </td>
@@ -116,15 +116,11 @@ A full-stack virtual market with live simulation, trading logic, portfolio track
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,arduino,git,react,nodejs,cmake,github&theme=dark" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/MATLAB-5B2D24?style=for-the-badge&logo=mathworks&logoColor=F3D6BC" />
-<img src="https://img.shields.io/badge/SolidWorks-5B2D24?style=for-the-badge&logo=solidworks&logoColor=F3D6BC" />
-<img src="https://img.shields.io/badge/KiCad-5B2D24?style=for-the-badge&logo=kicad&logoColor=F3D6BC" />
-<img src="https://img.shields.io/badge/ESP32-5B2D24?style=for-the-badge&logo=espressif&logoColor=F3D6BC" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-245C45?style=for-the-badge&logo=visualstudiocode&logoColor=D1FAE5" />
+<img src="https://img.shields.io/badge/SolidWorks-245C45?style=for-the-badge&logo=solidworks&logoColor=D1FAE5" />
+<img src="https://img.shields.io/badge/AutoCAD-245C45?style=for-the-badge&logo=autodesk&logoColor=D1FAE5" />
+<img src="https://img.shields.io/badge/MATLAB-245C45?style=for-the-badge&logo=mathworks&logoColor=D1FAE5" />
+<img src="https://img.shields.io/badge/KiCad-245C45?style=for-the-badge&logo=kicad&logoColor=D1FAE5" />
 
 </div>
 
