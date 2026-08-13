@@ -10,10 +10,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-sahilvirdi-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sahilvirdi/)
 ![Location](https://img.shields.io/badge/Location-Punjab%2C%20India-58A6FF?style=flat)
 
-<br>
-
-<img src="./assets/profile.jpg" width="200" height="200" style="border-radius:50%;border:4px solid #58A6FF;object-fit:cover;padding:3px;" alt="Sahilpreet Singh" />
-
 </div>
 
 ---
@@ -101,16 +97,15 @@ A full-stack virtual stock exchange platform with real-time market simulation, p
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Activity Graph
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahilpreetsinghvirdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F778BA&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpreetsinghvirdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F778BA&text_color=C9D1D9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilpreetsinghvirdi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=F778BA&point=F778BA&area=true&area_color=58A6FF" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilpreetsinghvirdi&theme=tokyonight&hide_border=true&background=0D1117&ring=F778BA&fire=F778BA&currStreakLabel=58A6FF" />
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sahilpreetsinghvirdi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<img src="https://raw.githubusercontent.com/Sahilpreetsinghvirdi/Sahilpreetsinghvirdi/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
