@@ -1,125 +1,114 @@
 <div align="center">
 
-# Hi, I'm Sahilpreet Singh 👋
+# Sahilpreet Singh
 
-### Mechatronics Engineer · Simulation & AI Systems · 16
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=how+does+this+actually+work%3F;idea+%E2%86%92+model+%E2%86%92+code+%E2%86%92+experiment+%E2%86%92+analysis;simulation+%2B+physics+%2B+AI+%2B+hardware)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+systems+that+model+reality;Orbital+mechanics+%2B+Monte+Carlo+simulation;C%2B%2B+%C2%B7+Python+%C2%B7+MATLAB+%C2%B7+Reinforcement+Learning;Robotics+%2B+Embedded+Systems)](https://git.io/typing-svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/Sahilpreetsinghvirdi?label=Follow&style=social)](https://github.com/Sahilpreetsinghvirdi)
-[![Instagram](https://img.shields.io/badge/Instagram-sahilvirdi-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sahilvirdi/)
-![Location](https://img.shields.io/badge/Location-Punjab%2C%20India-58A6FF?style=flat)
+`student` · `self-taught` · `Punjab, India`
 
 </div>
 
----
+<br>
 
-### 🎯 About Me
+## Earn from what I know, build from what I earn.
 
-I build computational and physical systems to understand how they work. My interests sit at the intersection of **software engineering, mathematics, physics, AI, and electronics** — I gravitate toward projects where the code sits on top of something real: a model, an equation, a simulation, or a physical system.
+I'm a student teaching myself software engineering, electronics, simulation, mathematics, physics, and AI/ML — not to collect certificates, but because I want to be able to take a hard technical idea and turn it into something that actually runs.
 
-- 🔭 Currently building: **JARVIS** — a goal-based, terminal-native computer-use agent for Windows that learns interfaces on the fly instead of relying on hardcoded macros
-- 🚀 Also deep in **orbital mechanics simulation**, reinforcement learning for NPC behavior, and embedded robotics
-- 🌱 Learning: advanced numerical methods, control theory, and RL infrastructure
-- 💬 Ask me about: simulation, optimization, C++/Python systems, or electronics builds
+I don't learn a tool because it's popular. I learn it because I want to know what's happening underneath it. If I use a library, a model, or an algorithm, at some point I go looking for the math or the mechanism behind it.
 
----
+This profile isn't a finished product. It's a running log of that process.
 
-### 🛠️ Core Stack
+<br>
+
+## How I work
+
+```
+idea → model → code → experiment → data → visualization → analysis → improvement
+```
+
+I like simulations specifically because they let me run a system through thousands of conditions instead of trusting one deterministic answer. A lot of what's below is some version of: build the physics, run it many times, look at what the data says, make it better.
+
+I version projects instead of abandoning them. A repo starting as "basic simulation" becoming "improved physics" becoming "optimization pass" is more honest than pretending v1 was the final version. Some of what's here is a finished engineering project, some of it is an open experiment, and some of it is just me learning something hard in public.
+
+<br>
+
+## Currently building
+
+**JARVIS** — a goal-based computer-use agent for Windows, running entirely in the terminal. The constraint I set for myself: no hardcoded macros. It has to learn an application's interface while it's working the task, and verify outcomes rather than assume a clicked button did what it was supposed to do. Still early — the interesting part so far is the intent-over-commands design, not the coverage.
+
+Alongside that, I'm pushing the Earth–Moon trajectory work from a single deterministic run toward an actual optimization problem — searching across trials for trajectories that trade off fuel usage, transfer time, and lunar orbital insertion, instead of me picking one by hand.
+
+<br>
+
+## Projects
+
+**[Earth–Moon Orbital](https://github.com/Sahilpreetsinghvirdi/Earth-Moon-Orbital)**
+Started as a 2D rocket trajectory simulation using Monte Carlo trials — randomizing launch parameters across thousands of runs instead of relying on one nominal trajectory — with numerical orbital dynamics, atmospheric drag, and lunar gravity, plotted live rather than dumped as static numbers. Current direction is turning trajectory selection into a search/optimization problem across fuel efficiency, transfer smoothness, and safe return.
+`MATLAB` `Monte Carlo` `Orbital Mechanics` `Optimization`
+
+**[AI NPC Simulation](https://github.com/Sahilpreetsinghvirdi/AI-NPC-simulation-with-finite-state-machine-architecture)**
+A C++20 environment for exploring learned agent behavior — PPO, actor-critic, GAE, trajectory buffers, minibatch training, checkpointing for persistent learning across runs. I kept a traditional FSM baseline on purpose, so the system has a stable fallback instead of every behavior depending on a policy that's still training.
+`C++20` `Reinforcement Learning` `PPO` `Finite State Machines`
+
+**[Black Hole — MATLAB](https://github.com/Sahilpreetsinghvirdi/Black-hole-Matlab)**
+Numerical modeling and visualization around black hole physics — an excuse to get comfortable with the kind of math that shows up later in orbital mechanics and dynamics.
+`MATLAB` `Numerical Methods` `Physics`
+
+**[4WD Autonomous Car](https://github.com/Sahilpreetsinghvirdi/4WD-Automatic-Car)**
+Sensor-driven navigation on real hardware — the point where a simulation stops being forgiving. Ultrasonic sensing, motor control, obstacle avoidance logic, and all the ways physical systems don't behave like the model.
+`Arduino` `Embedded Systems` `Robotics`
+
+**[Stock Exchange](https://github.com/Sahilpreetsinghvirdi/Stock-Exchange)**
+A full-stack virtual market — real-time simulation, portfolio tracking, trading logic, and a leaderboard. Less about finance, more about building a live system with state that has to stay consistent under concurrent activity.
+`JavaScript` `Full-Stack` `Real-Time Systems`
+
+<br>
+
+## What I'm trying to understand
+
+**Simulation & aerospace** — orbital mechanics, trajectory optimization, numerical methods for systems that don't have clean closed-form solutions.
+
+**AI/ML** — not API calls. The math underneath: how optimization actually shapes a neural network, how reinforcement learning agents learn behavior instead of being handed it, what's really going on when people talk about scaling or alternative architectures.
+
+**Physics & mathematics** — moving from school-level material toward the calculus, dynamics, and probability that simulation and AI actually run on.
+
+**Hardware & embedded systems** — because a system that only exists in software hasn't been tested against reality yet.
+
+I don't see these as separate subjects. Most of the interesting problems live at the point where two of them meet — a model that has to run in real time, a learned policy that has to control a physical motor, a trajectory that has to survive real drag and real gravity.
+
+<br>
+
+## Stack
+
+`C++20` `C` `Python` `MATLAB` — core languages
+`CMake` `Git` — build & version control
+`Arduino` `ESP32` `KiCad` — embedded & hardware
+`SolidWorks` — CAD & mechanical design
+`Node.js` `React` — when a project needs a live interface
+
+<br>
+
+## Currently
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E4392C?style=for-the-badge&logo=solidworks&logoColor=white)
-
-**Focus:** simulation · optimization · AI/ML · engineering
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahilpreetsinghvirdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpreetsinghvirdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
----
+<br>
 
-### 🚀 Featured Projects
+## Where this is going
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Right now the throughline is: model something in math, simulate it, build the software around it, then see if it survives contact with real hardware or real-time constraints. Long term, that's the kind of engineer I want to be — someone who can move a hard idea from a differential equation to a working system, not someone who stops at the tutorial.
 
-**🌍 Earth → Moon Orbital**
-2D Earth–Moon rocket trajectory simulation using Monte Carlo trials, numerical orbital dynamics, atmospheric drag, and lunar gravity with live trajectory visualization.
-`MATLAB` · `Orbital Mechanics` · `Optimization`
-[→ Repository](https://github.com/Sahilpreetsinghvirdi/Earth-Moon-Orbital)
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 AI NPC Simulation**
-C++ simulation exploring intelligent NPC behavior — finite-state machines, RL infrastructure (PPO), neural policies, and persistent learning.
-`C++20` · `Reinforcement Learning` · `Simulation`
-[→ Repository](https://github.com/Sahilpreetsinghvirdi/AI-NPC-simulation-with-finite-state-machine-architecture)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌌 Black Hole — MATLAB**
-Computational visualization and numerical modeling of black-hole physics.
-`MATLAB` · `Physics` · `Numerical Simulation`
-[→ Repository](https://github.com/Sahilpreetsinghvirdi/Black-hole-Matlab)
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 4WD Autonomous Car**
-Sensor-driven autonomous vehicle combining embedded programming, motor control, and navigation logic.
-`Arduino` · `Electronics` · `Robotics`
-[→ Repository](https://github.com/Sahilpreetsinghvirdi/4WD-Automatic-Car)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
-
-**📈 Stock Exchange**
-A full-stack virtual stock exchange platform with real-time market simulation, portfolio management, trading, analytics, and an interactive leaderboard dashboard.
-`JavaScript` · `Full-Stack` · `Real-Time Systems`
-[→ Repository](https://github.com/Sahilpreetsinghvirdi/Stock-Exchange)
-
-</td>
-</tr>
-</table>
-
----
-
-### 📈 Activity Graph
+This is a journey, not a finished profile. Come back later — it should look different.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilpreetsinghvirdi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=F778BA&point=F778BA&area=true&area_color=58A6FF" width="100%" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Sahilpreetsinghvirdi/Sahilpreetsinghvirdi/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
 ---
 
-<div align="center">
-
-### `STATUS: BUILDING`
-
-**Build · Simulate · Measure · Optimize**
-
-*Earn from what I know. Build from what I earn.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sahilpreetsinghvirdi-181717?style=for-the-badge&logo=github)](https://github.com/Sahilpreetsinghvirdi)
-[![Instagram](https://img.shields.io/badge/Instagram-sahilvirdi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahilvirdi/)
+`STATUS: BUILDING`
 
 </div>
