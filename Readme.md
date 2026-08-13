@@ -1,248 +1,149 @@
 <div align="center">
 
-# SAHILPREET SINGH
+# Hi, I'm Sahilpreet Singh 👋
 
-### SOFTWARE · AI · PHYSICS · SIMULATION · ROBOTICS
+### Mechatronics Engineer · Simulation & AI Systems · 16
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+systems%2C+not+just+code.;C%2B%2B+%2B+MATLAB+%2B+Python;Simulation+%7C+Optimization+%7C+Machine+Learning;From+mathematics+to+working+systems." alt="Typing animation" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+systems+that+model+reality;Orbital+mechanics+%2B+Monte+Carlo+simulation;C%2B%2B+%C2%B7+Python+%C2%B7+MATLAB+%C2%B7+Reinforcement+Learning;Robotics+%2B+Embedded+Systems)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sahilpreetsinghvirdi&style=flat-square&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
+[![GitHub followers](https://img.shields.io/github/followers/Sahilpreetsinghvirdi?label=Follow&style=social)](https://github.com/Sahilpreetsinghvirdi)
+[![Instagram](https://img.shields.io/badge/Instagram-sahilvirdi-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sahilvirdi/)
+![Location](https://img.shields.io/badge/Location-Punjab%2C%20India-58A6FF?style=flat)
 
 </div>
 
 ---
 
-## // SYSTEM PROFILE
+### 🎯 About Me
+
+I build computational and physical systems to understand how they work. My interests sit at the intersection of **software engineering, mathematics, physics, AI, and electronics** — I gravitate toward projects where the code sits on top of something real: a model, an equation, a simulation, or a physical system.
+
+- 🔭 Currently building: **JARVIS** — a goal-based, terminal-native computer-use agent for Windows that learns interfaces on the fly instead of relying on hardcoded macros
+- 🚀 Also deep in **orbital mechanics simulation**, reinforcement learning for NPC behavior, and embedded robotics
+- 🌱 Learning: advanced numerical methods, control theory, and RL infrastructure
+- 💬 Ask me about: simulation, optimization, C++/Python systems, or electronics builds
+
+---
+
+### 🛠️ Core Stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E4392C?style=for-the-badge&logo=solidworks&logoColor=white)
+
+**Focus:** simulation · optimization · AI/ML · engineering
+
+</div>
+
+---
+
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-**I build computational and physical systems to learn how they work.**
-
-My interests sit at the intersection of **software engineering, mathematics, physics, artificial intelligence, and electronics**.
-
-I like projects where the code has something underneath it: a model, an equation, a simulation, a physical system, or an optimization problem.
-
-**Current direction**
-
-- Numerical and physical simulation
-- Orbital mechanics and trajectory optimization
-- C++ systems and AI simulation
-- Reinforcement learning
-- Robotics and embedded systems
-- MATLAB-based computational experiments
+**🌍 Earth → Moon Orbital**
+2D Earth–Moon rocket trajectory simulation using Monte Carlo trials, numerical orbital dynamics, atmospheric drag, and lunar gravity with live trajectory visualization.
+`MATLAB` · `Orbital Mechanics` · `Optimization`
+[→ Repository](https://github.com/Sahilpreetsinghvirdi/Earth-Moon-Orbital)
 
 </td>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
-```text
-┌──────────────────────────────┐
-│        CURRENT STACK         │
-├──────────────────────────────┤
-│ C++20          ██████████    │
-│ MATLAB         █████████     │
-│ Python         ████████      │
-│ C              ███████       │
-│ CMake          ██████        │
-│ Arduino        ██████        │
-│ Git / GitHub   █████████     │
-└──────────────────────────────┘
+**🧠 AI NPC Simulation**
+C++ simulation exploring intelligent NPC behavior — finite-state machines, RL infrastructure (PPO), neural policies, and persistent learning.
+`C++20` · `Reinforcement Learning` · `Simulation`
+[→ Repository](https://github.com/Sahilpreetsinghvirdi/AI-NPC-simulation-with-finite-state-machine-architecture)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌌 Black Hole — MATLAB**
+Computational visualization and numerical modeling of black-hole physics.
+`MATLAB` · `Physics` · `Numerical Simulation`
+[→ Repository](https://github.com/Sahilpreetsinghvirdi/Black-hole-Matlab)
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 4WD Autonomous Car**
+Sensor-driven autonomous vehicle combining embedded programming, motor control, and navigation logic.
+`Arduino` · `Electronics` · `Robotics`
+[→ Repository](https://github.com/Sahilpreetsinghvirdi/4WD-Automatic-Car)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+**📈 Stock Exchange**
+A full-stack virtual stock exchange platform with real-time market simulation, portfolio management, trading, analytics, and an interactive leaderboard dashboard.
+`JavaScript` · `Full-Stack` · `Real-Time Systems`
+[→ Repository](https://github.com/Sahilpreetsinghvirdi/Stock-Exchange)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahilpreetsinghvirdi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpreetsinghvirdi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilpreetsinghvirdi&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" />
+
+</div>
+
+---
+
+### 🧭 Engineering Path
+
 ```
-
-</td>
-</tr>
-</table>
-
----
-
-## // ACTIVE PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Earth → Moon Orbital
-
-Numerical Earth–Moon trajectory simulation with the goal of searching for efficient transfers, stable lunar encounters, and safe return trajectories.
-
-**MATLAB · Orbital Mechanics · Optimization**
-
-[→ Open repository](https://github.com/Sahilpreetsinghvirdi/Earth-Moon-Orbital)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 AI NPC Simulation
-
-A C++ simulation exploring intelligent NPC behaviour, state machines, reinforcement-learning infrastructure, neural policies, and persistent learning.
-
-**C++20 · RL · PPO · Simulation**
-
-[→ Open repository](https://github.com/Sahilpreetsinghvirdi/AI-NPC-simulation-with-finite-state-machine-architecture)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 Black Hole — MATLAB
-
-A computational visualisation experiment built around black-hole physics and numerical modelling.
-
-**MATLAB · Physics · Numerical Simulation**
-
-[→ Open repository](https://github.com/Sahilpreetsinghvirdi/Black-hole-Matlab)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 4WD Autonomous Car
-
-Sensor-driven autonomous vehicle work combining embedded programming, motors, sensors, and navigation logic.
-
-**Arduino · Electronics · Robotics**
-
-[→ Open repository](https://github.com/Sahilpreetsinghvirdi/4WD-Automatic-Car)
-
-</td>
-</tr>
-</table>
-
----
-
-## // GITHUB TELEMETRY
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sahilpreetsinghvirdi&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpreetsinghvirdi&layout=donut-vertical&hide_border=true&langs_count=8&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Sahilpreetsinghvirdi&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilpreetsinghvirdi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## // GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sahilpreetsinghvirdi&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
-</div>
-
----
-
-## // TECHNOLOGY MAP
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,matlab,cmake,git,github,arduino,visualstudio&perline=9" alt="Technology stack" />
-
-</div>
-
-<br/>
-
-| DOMAIN | TOOLS / CONCEPTS |
-|:---|:---|
-| **Systems** | C · C++20 · CMake · Data structures · Memory · Algorithms |
-| **AI / ML** | Neural networks · Reinforcement learning · PPO · Simulation |
-| **Scientific** | MATLAB · Numerical methods · Physics · Orbital mechanics |
-| **Robotics** | Arduino · Sensors · Motor control · Embedded systems |
-| **Engineering** | SolidWorks · Electronics · Modelling · Optimization |
-
----
-
-## // SELECTED REPOSITORIES
-
-<div align="center">
-
-<a href="https://github.com/Sahilpreetsinghvirdi/Earth-Moon-Orbital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilpreetsinghvirdi&repo=Earth-Moon-Orbital&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/Sahilpreetsinghvirdi/Monte-Carlo-Rocket-Simulation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilpreetsinghvirdi&repo=Monte-Carlo-Rocket-Simulation&theme=github_dark&hide_border=true" /></a>
-
-<br/>
-
-<a href="https://github.com/Sahilpreetsinghvirdi/Black-hole-Matlab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilpreetsinghvirdi&repo=Black-hole-Matlab&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/Sahilpreetsinghvirdi/Stock-Exchange"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilpreetsinghvirdi&repo=Stock-Exchange&theme=github_dark&hide_border=true" /></a>
-
-</div>
-
----
-
-## // CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sahilpreetsinghvirdi/Sahilpreetsinghvirdi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-
-</div>
-
----
-
-## // ROADMAP
-
-```text
 MATHEMATICS
      │
      ├── Numerical Methods
-     │
      ▼
-PHYSICS ────────────────┐
-     │                  │
-     ▼                  ▼
-SIMULATION          OPTIMIZATION
-     │                  │
-     └────────┬─────────┘
-              ▼
-       INTELLIGENT SYSTEMS
-              │
-              ▼
-        AI / MACHINE LEARNING
-              │
-              ▼
-      REAL-WORLD ENGINEERING
+PHYSICS ──────────────┐
+     │                │
+     ▼                ▼
+SIMULATION         OPTIMIZATION
+     │                │
+     └───────┬────────┘
+             ▼
+     INTELLIGENT SYSTEMS
+             │
+             ▼
+     AI / MACHINE LEARNING
+             │
+             ▼
+   REAL-WORLD ENGINEERING
 ```
 
 ---
 
-## // BUILD LOG
-
-> **Build. Simulate. Measure. Optimize. Repeat.**
-
-I'm using GitHub as a laboratory notebook: each repository is an experiment, a system, or a step toward a larger engineering problem.
-
 <div align="center">
 
-### `SYSTEM STATUS: BUILDING`
+### `STATUS: BUILDING`
 
-**Earn from what I know. Build from what I earn.**
+**Build · Simulate · Measure · Optimize**
 
-</div>
+*Earn from what I know. Build from what I earn.*
 
----
-
-<div align="center">
-
-<a href="https://github.com/Sahilpreetsinghvirdi?tab=repositories">REPOSITORIES</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Sahilpreetsinghvirdi?tab=stars">STARS</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Sahilpreetsinghvirdi">PROFILE</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Sahilpreetsinghvirdi-181717?style=for-the-badge&logo=github)](https://github.com/Sahilpreetsinghvirdi)
+[![Instagram](https://img.shields.io/badge/Instagram-sahilvirdi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahilvirdi/)
 
 </div>
