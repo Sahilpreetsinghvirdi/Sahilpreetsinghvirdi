@@ -39,17 +39,7 @@ Building systems that **work in reality**. Physics + simulation + AI, from orbit
 
 ## Projects
 
-| | | |
-|---|---|---|
-| **🌍 Earth-Moon Orbital** [↗](https://github.com/Sahilpreetsinghvirdi/Earth-Moon-Orbital) | **🤖 AI NPC RL** [↗](https://github.com/Sahilpreetsinghvirdi/AI-NPC-simulation-with-finite-state-machine-architecture) | **🕳️ Black Hole Physics** [↗](https://github.com/Sahilpreetsinghvirdi/Black-hole-Matlab) |
-| Monte Carlo trajectories, lunar gravity, atmospheric drag | C++20, PPO, Actor-Critic, persistent checkpoints | Schwarzschild metric, geodesics, field dynamics |
-| ![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=flat&logo=mathworks) ![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-00D9FF?style=flat) | ![C++](https://img.shields.io/badge/C++20-00D9FF?style=flat&logo=cplusplus) ![RL](https://img.shields.io/badge/PPO-FF6B9D?style=flat) | ![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=flat&logo=mathworks) ![Physics](https://img.shields.io/badge/Relativity-FFD60A?style=flat) |
-
-| | | |
-|---|---|---|
-| **🚗 4WD Autonomous Car** [↗](https://github.com/Sahilpreetsinghvirdi/4WD-Automatic-Car) | **💰 Stock Exchange** [↗](https://github.com/Sahilpreetsinghvirdi/Stock-Exchange) | **🎵 AudioDucker** [↗](https://github.com/Sahilpreetsinghvirdi/AudioDucker) |
-| Ultrasonic sensing, obstacle avoidance, real hardware | React, Node.js, MongoDB, WebSocket, concurrent state | C++ Windows utility, smart volume automation |
-| ![Arduino](https://img.shields.io/badge/Arduino-00D9FF?style=flat&logo=arduino) ![Robotics](https://img.shields.io/badge/Robotics-FF6B9D?style=flat) | ![React](https://img.shields.io/badge/React-00D9FF?style=flat&logo=react) ![WebSocket](https://img.shields.io/badge/Real_Time-FFD60A?style=flat) | ![C++](https://img.shields.io/badge/C++-00D9FF?style=flat&logo=cplusplus) ![Windows](https://img.shields.io/badge/Windows-FF6B9D?style=flat) |
+Coming soon! Check my [repositories](https://github.com/Sahilpreetsinghvirdi) for detailed projects.
 
 ---
 
@@ -72,8 +62,8 @@ Building systems that **work in reality**. Physics + simulation + AI, from orbit
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilpreetsinghvirdi&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=00D9FF&icon_color=FF6B9D)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpreetsinghvirdi&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=00D9FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilpreetsinghvirdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=00D9FF&icon_color=FF6B9D)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilpreetsinghvirdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=00D9FF)
 
 ---
 
